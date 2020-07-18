@@ -1,0 +1,9 @@
+C:\Users\giova\Documents\Faculdade\HabitTracker\HabitTracker.Domain\bin\Debug\netstandard2.0\HabitTracker.Domain.deps.json
+C:\Users\giova\Documents\Faculdade\HabitTracker\HabitTracker.Domain\bin\Debug\netstandard2.0\HabitTracker.Domain.dll
+C:\Users\giova\Documents\Faculdade\HabitTracker\HabitTracker.Domain\bin\Debug\netstandard2.0\HabitTracker.Domain.pdb
+C:\Users\giova\Documents\Faculdade\HabitTracker\HabitTracker.Domain\obj\Debug\netstandard2.0\HabitTracker.Domain.csprojAssemblyReference.cache
+C:\Users\giova\Documents\Faculdade\HabitTracker\HabitTracker.Domain\obj\Debug\netstandard2.0\HabitTracker.Domain.AssemblyInfoInputs.cache
+C:\Users\giova\Documents\Faculdade\HabitTracker\HabitTracker.Domain\obj\Debug\netstandard2.0\HabitTracker.Domain.AssemblyInfo.cs
+C:\Users\giova\Documents\Faculdade\HabitTracker\HabitTracker.Domain\obj\Debug\netstandard2.0\HabitTracker.Domain.csproj.CoreCompileInputs.cache
+C:\Users\giova\Documents\Faculdade\HabitTracker\HabitTracker.Domain\obj\Debug\netstandard2.0\HabitTracker.Domain.dll
+C:\Users\giova\Documents\Faculdade\HabitTracker\HabitTracker.Domain\obj\Debug\netstandard2.0\HabitTracker.Domain.pdb

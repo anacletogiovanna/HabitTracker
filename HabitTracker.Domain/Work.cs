@@ -10,7 +10,5 @@ namespace HabitTracker.Domain
         public string Name { get; set; }
         public DateTime WorkDate { get; set; }
 
-
-
     }
 }

@@ -7,7 +7,7 @@ namespace HabitTracker.Domain
     {
         public Guid Id { get; set; }
         public string Name { get; set; }
-        public List<DayOfWeek> HabitDays { get; set; }
+        public string HabitDays { get; set; }
         public DateTime HabitTimeNotification { get; set; }
 
     }

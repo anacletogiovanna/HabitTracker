@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7kMpoadpx+9Iu/TM6qIJ0s0sPXBRrT1CEkz2Yxp6tk3xn5Wpuz250UUCP1VRrMhkXnxlA0VunO0kXmBRXlJWgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\giova\\Documents\\Faculdade\\HabitTracker\\HabitTracker.Domain\\HabitTracker.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\giova\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\giova\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

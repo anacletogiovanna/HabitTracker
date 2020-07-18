@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HabitTracker.Domain", "HabitTracker.Domain\HabitTracker.Domain.csproj", "{CE05F47E-82ED-4200-A99D-33F2D67E7F9C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HabitTracker.Domain", "HabitTracker.Domain\HabitTracker.Domain.csproj", "{CE05F47E-82ED-4200-A99D-33F2D67E7F9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HabitTrackerAPI", "HabitTrackerAPI\HabitTrackerAPI.csproj", "{448E69A8-0899-4564-A956-1A9B9C8410E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HabitTracker.Infra", "HabitTracker.Infra\HabitTracker.Infra.csproj", "{DC376B27-9C20-4B52-8F73-2CFB9F2777D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HabitTracker.MVC", "HabitTracker.MVC\HabitTracker.MVC.csproj", "{6BAB286C-CD76-40DB-8C93-F4689AA1DDC1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{CE05F47E-82ED-4200-A99D-33F2D67E7F9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE05F47E-82ED-4200-A99D-33F2D67E7F9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE05F47E-82ED-4200-A99D-33F2D67E7F9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{448E69A8-0899-4564-A956-1A9B9C8410E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{448E69A8-0899-4564-A956-1A9B9C8410E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{448E69A8-0899-4564-A956-1A9B9C8410E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{448E69A8-0899-4564-A956-1A9B9C8410E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC376B27-9C20-4B52-8F73-2CFB9F2777D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC376B27-9C20-4B52-8F73-2CFB9F2777D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC376B27-9C20-4B52-8F73-2CFB9F2777D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC376B27-9C20-4B52-8F73-2CFB9F2777D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BAB286C-CD76-40DB-8C93-F4689AA1DDC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BAB286C-CD76-40DB-8C93-F4689AA1DDC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BAB286C-CD76-40DB-8C93-F4689AA1DDC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BAB286C-CD76-40DB-8C93-F4689AA1DDC1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
